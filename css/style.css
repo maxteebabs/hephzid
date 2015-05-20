@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+.header_container{
+	margin-left: 198px;
+}
+.wrap {
+	border: 1px solid black;
+	width: 70%;	
+}
+#wrapper{
+	width: 70%;
+	border: 1px solid grey;
+	background-color: #ccc6c6;
+	margin: 0 auto;
+}
+.color1{
+	background-color: #f7f7cf;
+}
+.margin{
+	text-align: center;
+	color: #fff;
+}
+#facilities{
+	width: 67%;
+	margin-left: 15px;
+	padding: 6px;
+	margin-top: 15px;
+}
+#facilities h3{
+	margin-left: 20px;
+}
+.row img{
+	margin-bottom: 10px;
+}
+.home_adm{
+	background-color: 
+}
+.social_cont{
+	display: inline-block;
+	position: relative;
+	top: 50px;
+	float: right;
+}
+.social {
+	width:120px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	position: relative;
+	right: 0;
+}
